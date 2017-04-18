@@ -1,0 +1,28 @@
+<svg height="398" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="398" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-18 09:19:03 +0000   564806 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 09:19:03 +0000     5277 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 09:19:03 +0000     1066 bytes  LICENSE.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 09:19:03 +0000      445 bytes  Makefile</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 09:19:03 +0000     6361 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 09:19:03 +0000     3577 bytes  addon/components/sortable-group.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 09:19:03 +0000      217 bytes  addon/components/sortable-item.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 09:19:03 +0000     2324 bytes  addon/helpers/drag.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 09:19:03 +0000     1329 bytes  addon/helpers/reorder.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 09:19:03 +0000    14707 bytes  addon/mixins/sortable-item.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 09:19:03 +0000     1638 bytes  addon/system/scroll-container.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 09:19:03 +0000      713 bytes  addon/system/scroll-parent.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 09:19:03 +0000       15 bytes  addon/templates/components/sortable-group.hbs</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 09:19:03 +0000       15 bytes  addon/templates/components/sortable-item.hbs</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 09:19:03 +0000      521 bytes  addon/utils/transitionend.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 09:19:03 +0000      101 bytes  app/components/sortable-group.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 09:19:03 +0000       98 bytes  app/components/sortable-item.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 09:19:03 +0000      111 bytes  config/environment.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 09:19:03 +0000   522730 bytes  demo.gif</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 09:19:03 +0000       86 bytes  index.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 09:19:03 +0000     3396 bytes  package.json</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 09:19:03 +0000       79 bytes  test-support/helpers/ember-sortable/test-helpers\</tspan>
+<tspan x="10" y="378">.js</tspan>
+</text>
+</svg>
